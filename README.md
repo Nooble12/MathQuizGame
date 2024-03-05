@@ -13,5 +13,5 @@ Sound effects when clicking buttons along with correct and incorrect sounds.
 Skip button.
 
 Credits:
-Tim Tran, Lead Programmer
-Aaron Nguyen, Tester and Programmer
+Tim Tran, Lead Programmer.
+Aaron Nguyen, Tester, and Programmer.
