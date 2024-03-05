@@ -12,3 +12,4 @@ C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windo
 C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.pdb
 C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.genruntimeconfig.cache
 C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\ref\MathQuizGame.dll
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.sourcelink.json

@@ -140,10 +140,15 @@ public partial class SettingsForm : Form
     {
         try
         {
-            int result = Int32.Parse(inString);
-            RandomOperand game = new RandomOperand();
-            game.SetMaxOperand(result);
-            return true;
+            if (Int32.Parse(inString) > 0)
+            {
+                int input = Int32.Parse(inString);
+                RandomOperand game = new RandomOperand();
+                game.SetMaxOperand(input);
+                return true;   
+            }
+            DisplayIntError();
+            return false;
         }
         catch (FormatException)
         {

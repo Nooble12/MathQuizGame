@@ -472,3 +472,4 @@ C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Release\net8.0-win
 C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Release\net8.0-windows\win-x86\MathQuizGame.pdb
 C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Release\net8.0-windows\win-x86\MathQuizGame.genruntimeconfig.cache
 C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Release\net8.0-windows\win-x86\ref\MathQuizGame.dll
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Release\net8.0-windows\win-x86\MathQuizGame.sourcelink.json
