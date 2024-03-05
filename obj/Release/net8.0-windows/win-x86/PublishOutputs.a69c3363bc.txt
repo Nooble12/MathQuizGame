@@ -1,0 +1,7 @@
+C:\Users\Tim Tran\Downloads\MathGame\MathQuizGame.pdb
+C:\Users\Tim Tran\Downloads\MathGame\D3DCompiler_47_cor3.dll
+C:\Users\Tim Tran\Downloads\MathGame\PenImc_cor3.dll
+C:\Users\Tim Tran\Downloads\MathGame\PresentationNative_cor3.dll
+C:\Users\Tim Tran\Downloads\MathGame\vcruntime140_cor3.dll
+C:\Users\Tim Tran\Downloads\MathGame\wpfgfx_cor3.dll
+C:\Users\Tim Tran\Downloads\MathGame\MathQuizGame.exe

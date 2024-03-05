@@ -1,0 +1,14 @@
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\bin\Debug\net8.0-windows\MathQuizGame.exe
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\bin\Debug\net8.0-windows\MathQuizGame.deps.json
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\bin\Debug\net8.0-windows\MathQuizGame.runtimeconfig.json
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\bin\Debug\net8.0-windows\MathQuizGame.dll
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\bin\Debug\net8.0-windows\MathQuizGame.pdb
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.AssemblyInfoInputs.cache
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.AssemblyInfo.cs
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.dll
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\refint\MathQuizGame.dll
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.pdb
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\MathQuizGame.genruntimeconfig.cache
+C:\Users\Tim Tran\RiderProjects\MathQuizGame\MathQuizGame\obj\Debug\net8.0-windows\ref\MathQuizGame.dll
